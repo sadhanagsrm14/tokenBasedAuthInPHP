@@ -1,4 +1,7 @@
 <?php 
+/*
+API URL :: http://localhost/Projects/corephp/first/api.php?action=login&email=freaky@jolly.com&password=12345678
+*/
 require_once('vendor/autoload.php');
 use \Firebase\JWT\JWT; 
 
